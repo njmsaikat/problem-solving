@@ -2,7 +2,7 @@
 
 # problem-solving
 
-problem solving in hackerrank, codeforces, beecrowd
+problem solving in hackerrank, codeforces, beecrowd, leetcode
 
 # Hackerrank
 
@@ -24,3 +24,10 @@ My solutions to the practice exercises, coding challenges, and other problems on
 [www.beecrowd.com](https://beecrowd.com/)
 
 Profile: https://judge.beecrowd.com/en/profile/292657
+
+# Leetcode
+
+My solutions to the practice exercises, coding challenges, and other problems on Leetcode!
+[www.leetcode.com](https://leetcode.com/)
+
+Profile: https://leetcode.com/njmsaikat/
